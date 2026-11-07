@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+      Normal     0.8840    0.9759    0.9277       664
+    Ischemia     0.7955    0.6176    0.6954       170
+    Bleeding     0.9398    0.7622    0.8418       164
+
+    accuracy                         0.8798       998
+   macro avg     0.8731    0.7852    0.8216       998
+weighted avg     0.8781    0.8798    0.8740       998
