@@ -2,7 +2,7 @@
 
 **Three-class brain CT stroke classification (Normal / Ischemia / Bleeding) using transfer learning with VGG16 and ResNet50.**
 
-📄 [Full report (PDF)](docs/Brain_CT_Stroke_Classification_Report.pdf) · 📊 [Presentation (PPTX)](docs/Brain_Stroke_Classification_Presentation.pptx) · 🗂️ [Dataset on Kaggle](https://www.kaggle.com/datasets/samali012/tekno21-brain-ct-stroke-processed-384)
+📄 [Full report (PDF)](docs/Brain_CT_Stroke_Classification_Using_VGG16_and_ResNet50.pdf) · 📊 [Presentation (PPTX)](docs/Brain_Stroke_Classification_Presentation.pptx) · 🗂️ [Dataset on Kaggle](https://www.kaggle.com/datasets/samali012/tekno21-brain-ct-stroke-processed-384)
 
 ---
 
